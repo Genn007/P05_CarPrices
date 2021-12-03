@@ -7,8 +7,7 @@ Tutorial and pet project on regressional estimation of car prices
 
 ## 1. Состав файлов проекта
 Каталог input - исходные файлы для работы по проекту
-- 211121-12brands.csv - собранные с сайта авто-ру данные по 12 маркам автомобилей
-- 211203_Train_Test.csv - результат обработки данных, сохраненный для загрузки на Google Colab
+- 211203_Train_Test.csv - результат обработки данных по 12 маркам, сохраненный для загрузки на Google Colab
 - CarModels.csv - информация по моделям а/м скомпилированная из паутины, в основном Wikipedia
 
 12 Brans Train Review.html  - пример отчета по анализу данных
